@@ -18,6 +18,15 @@ function App() {
           Learn React js in a very easy way
 
         </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React js in a very easy way
+
+        </a>
       </header>
     </div>
   );
