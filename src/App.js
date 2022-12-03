@@ -15,8 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React js
-          
+          Learn React js in a very easy way
+
         </a>
       </header>
     </div>
@@ -24,3 +24,7 @@ function App() {
 }
 
 export default App;
+
+
+// master => production, live website => 10000 users
+//master => git push => error
